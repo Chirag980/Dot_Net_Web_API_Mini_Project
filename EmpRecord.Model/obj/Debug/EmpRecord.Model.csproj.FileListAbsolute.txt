@@ -1,0 +1,10 @@
+C:\Users\User\Downloads\Registration Form\EmpRecord.Model\bin\Debug\EmpRecord.Model.dll
+C:\Users\User\Downloads\Registration Form\EmpRecord.Model\bin\Debug\EmpRecord.Model.pdb
+C:\Users\User\Downloads\Registration Form\EmpRecord.Model\obj\Debug\EmpRecord.Model.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Registration Form\EmpRecord.Model\obj\Debug\EmpRecord.Model.dll
+C:\Users\User\Downloads\Registration Form\EmpRecord.Model\obj\Debug\EmpRecord.Model.pdb
+C:\Users\User\Downloads\Registration Form\EmpRecord.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Downloads\Registration Form\EmpRecord.Model\bin\Debug\RestSharp.dll
+C:\Users\User\Downloads\Registration Form\EmpRecord.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Downloads\Registration Form\EmpRecord.Model\bin\Debug\RestSharp.xml
+C:\Users\User\Downloads\Registration Form\EmpRecord.Model\obj\Debug\EmpRecord.Model.csproj.CopyComplete

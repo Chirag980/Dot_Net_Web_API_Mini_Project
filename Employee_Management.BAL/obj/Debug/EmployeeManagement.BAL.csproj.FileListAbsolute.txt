@@ -1,0 +1,22 @@
+C:\Users\User\Desktop\Registration Form\Employee_Management.BAL\bin\Debug\Employee_Management.BAL.dll
+C:\Users\User\Desktop\Registration Form\Employee_Management.BAL\bin\Debug\Employee_Management.BAL.pdb
+C:\Users\User\Desktop\Registration Form\Employee_Management.BAL\bin\Debug\EmployeeManagement.DAL.dll
+C:\Users\User\Desktop\Registration Form\Employee_Management.BAL\bin\Debug\EmployeeManagement.Model.dll
+C:\Users\User\Desktop\Registration Form\Employee_Management.BAL\bin\Debug\EmployeeManagement.DAL.pdb
+C:\Users\User\Desktop\Registration Form\Employee_Management.BAL\bin\Debug\EmployeeManagement.Model.pdb
+C:\Users\User\Desktop\Registration Form\Employee_Management.BAL\obj\Debug\EmployeeManagement.BAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Registration Form\Employee_Management.BAL\obj\Debug\EmployeeManagement.BAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Registration Form\Employee_Management.BAL\obj\Debug\EmployeeManagement.BAL.csproj.CopyComplete
+C:\Users\User\Desktop\Registration Form\Employee_Management.BAL\obj\Debug\Employee_Management.BAL.dll
+C:\Users\User\Desktop\Registration Form\Employee_Management.BAL\obj\Debug\Employee_Management.BAL.pdb
+C:\CS PERSONAL\Employee Management Code\mini-project\Employee_Management.BAL\bin\Debug\Employee_Management.BAL.dll
+C:\CS PERSONAL\Employee Management Code\mini-project\Employee_Management.BAL\bin\Debug\Employee_Management.BAL.pdb
+C:\CS PERSONAL\Employee Management Code\mini-project\Employee_Management.BAL\bin\Debug\EmployeeManagement.DAL.dll
+C:\CS PERSONAL\Employee Management Code\mini-project\Employee_Management.BAL\bin\Debug\EmployeeManagement.Model.dll
+C:\CS PERSONAL\Employee Management Code\mini-project\Employee_Management.BAL\bin\Debug\EmployeeManagement.DAL.pdb
+C:\CS PERSONAL\Employee Management Code\mini-project\Employee_Management.BAL\bin\Debug\EmployeeManagement.Model.pdb
+C:\CS PERSONAL\Employee Management Code\mini-project\Employee_Management.BAL\obj\Debug\EmployeeManagement.BAL.csproj.AssemblyReference.cache
+C:\CS PERSONAL\Employee Management Code\mini-project\Employee_Management.BAL\obj\Debug\EmployeeManagement.BAL.csproj.CoreCompileInputs.cache
+C:\CS PERSONAL\Employee Management Code\mini-project\Employee_Management.BAL\obj\Debug\Employee.597BEFD9.Up2Date
+C:\CS PERSONAL\Employee Management Code\mini-project\Employee_Management.BAL\obj\Debug\Employee_Management.BAL.dll
+C:\CS PERSONAL\Employee Management Code\mini-project\Employee_Management.BAL\obj\Debug\Employee_Management.BAL.pdb

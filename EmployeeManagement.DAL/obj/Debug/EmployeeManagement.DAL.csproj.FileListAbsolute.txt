@@ -1,0 +1,18 @@
+C:\Users\User\Desktop\Registration Form\EmployeeManagement.DAL\bin\Debug\EmployeeManagement.DAL.dll
+C:\Users\User\Desktop\Registration Form\EmployeeManagement.DAL\bin\Debug\EmployeeManagement.DAL.pdb
+C:\Users\User\Desktop\Registration Form\EmployeeManagement.DAL\bin\Debug\EmployeeManagement.Model.dll
+C:\Users\User\Desktop\Registration Form\EmployeeManagement.DAL\bin\Debug\EmployeeManagement.Model.pdb
+C:\Users\User\Desktop\Registration Form\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Registration Form\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Registration Form\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.csproj.CopyComplete
+C:\Users\User\Desktop\Registration Form\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.dll
+C:\Users\User\Desktop\Registration Form\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.pdb
+C:\CS PERSONAL\Employee Management Code\mini-project\EmployeeManagement.DAL\bin\Debug\EmployeeManagement.DAL.dll
+C:\CS PERSONAL\Employee Management Code\mini-project\EmployeeManagement.DAL\bin\Debug\EmployeeManagement.DAL.pdb
+C:\CS PERSONAL\Employee Management Code\mini-project\EmployeeManagement.DAL\bin\Debug\EmployeeManagement.Model.dll
+C:\CS PERSONAL\Employee Management Code\mini-project\EmployeeManagement.DAL\bin\Debug\EmployeeManagement.Model.pdb
+C:\CS PERSONAL\Employee Management Code\mini-project\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.csproj.AssemblyReference.cache
+C:\CS PERSONAL\Employee Management Code\mini-project\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.csproj.CoreCompileInputs.cache
+C:\CS PERSONAL\Employee Management Code\mini-project\EmployeeManagement.DAL\obj\Debug\Employee.95C5EFD9.Up2Date
+C:\CS PERSONAL\Employee Management Code\mini-project\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.dll
+C:\CS PERSONAL\Employee Management Code\mini-project\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.pdb

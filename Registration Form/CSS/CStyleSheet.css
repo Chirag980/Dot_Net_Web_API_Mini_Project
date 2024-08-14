@@ -1,0 +1,151 @@
+﻿/*body {
+    margin: 0;
+    padding: 0;
+    background-image: url('../back%20image%20login.jpg');
+    background-size: cover;
+    font-family: sans-serif;
+}
+    */
+
+body {
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background-size: 400% 400%;
+    animation: gradient 10s ease infinite;
+}
+/*.validators{
+    color:darkred
+}*/
+
+.button4 {
+    border-radius: 12px;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+.loginbox {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 350px;
+    height: 420px;
+    padding: 80px 40px;
+    box-sizing: border-box;
+    background: bisque;
+    border-radius: 29px;
+}
+
+
+#cid_15 {
+    display: inline-block;
+}
+
+table tbody tr td {
+    padding: 5px 0%;
+
+}
+
+
+
+.user {
+    width: 50px;
+    height: 100px;
+    overflow: hidden;
+    top: calc(-100px/2);
+    left: calc(50%,-50px);
+    position: absolute;
+}
+
+h2 {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    color: rgb(255, 217, 9);
+}
+
+.lblemail, lblpass {
+    font-weight: bold;
+    color: black
+}
+
+.txtemail, .txtpass, .btnsubmit {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.txtemail, .txtpass {
+    border: none;
+    border-bottom: 3px solid #fff;
+    outline: none;
+    height: 40px;
+    color: black;
+    font-size: 16px;
+}
+
+::placeholder {
+    color: rgba(255,255,255,.5);
+}
+.grid{
+    width:60px;
+}
+.btnsubmit {
+    border: none;
+    outline: none;
+    height: 40px;
+    font-size: 16px;
+    color: rgba(255,205,9,0.92);
+    background-color: rgb(255,9,9);
+    cursor: pointer;
+    border-radius: 20px;
+    transition: .3s ease-in-out;
+}
+
+    .btnsubmit:hover {
+        background-color: rgb(255, 217, 9);
+    }
+
+.btnforget {
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration: none;
+    color: #fff;
+}
+
+
+    .btnforget:hover {
+        text-decoration: underline;
+    }
+
+
+.auto-style1 {
+    width: 107px;
+    height: 100px;
+    top: -58px;
+    left: 120px;
+    position: absolute;
+}
+
+img {
+    border-radius: 90%;
+}
+
+
+
+
+/*Validators*/
+.validatorcss{
+    background-color:white;
+    display:inline-block;
+}

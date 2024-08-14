@@ -1,0 +1,36 @@
+C:\Users\User\Downloads\Registration Form\EmployeeManagement.Model\bin\Debug\EmployeeManagement.Model.dll
+C:\Users\User\Downloads\Registration Form\EmployeeManagement.Model\bin\Debug\EmployeeManagement.Model.pdb
+C:\Users\User\Downloads\Registration Form\EmployeeManagement.Model\obj\Debug\EmployeeManagement.Model.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Registration Form\EmployeeManagement.Model\obj\Debug\EmployeeManagement.Model.dll
+C:\Users\User\Downloads\Registration Form\EmployeeManagement.Model\obj\Debug\EmployeeManagement.Model.pdb
+C:\Users\User\Downloads\Registration Form\EmployeeManagement.Model\bin\Debug\Telerik.WinControls.dll
+C:\Users\User\Downloads\Registration Form\EmployeeManagement.Model\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\User\Downloads\Registration Form\EmployeeManagement.Model\bin\Debug\TelerikCommon.dll
+C:\Users\User\Downloads\Registration Form\EmployeeManagement.Model\bin\Debug\Telerik.WinControls.xml
+C:\Users\User\Downloads\Registration Form\EmployeeManagement.Model\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\User\Downloads\Registration Form\EmployeeManagement.Model\obj\Debug\EmployeeManagement.Model.csproj.CopyComplete
+C:\Users\User\Downloads\Registration Form\EmployeeManagement.Model\obj\Debug\EmployeeManagement.Model.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Registration Form\EmployeeManagement.Model\bin\Debug\EmployeeManagement.Model.dll
+C:\Users\User\Desktop\Registration Form\EmployeeManagement.Model\bin\Debug\EmployeeManagement.Model.pdb
+C:\Users\User\Desktop\Registration Form\EmployeeManagement.Model\bin\Debug\Telerik.WinControls.dll
+C:\Users\User\Desktop\Registration Form\EmployeeManagement.Model\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\User\Desktop\Registration Form\EmployeeManagement.Model\bin\Debug\TelerikCommon.dll
+C:\Users\User\Desktop\Registration Form\EmployeeManagement.Model\bin\Debug\Telerik.WinControls.xml
+C:\Users\User\Desktop\Registration Form\EmployeeManagement.Model\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\User\Desktop\Registration Form\EmployeeManagement.Model\obj\Debug\EmployeeManagement.Model.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Registration Form\EmployeeManagement.Model\obj\Debug\EmployeeManagement.Model.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Registration Form\EmployeeManagement.Model\obj\Debug\EmployeeManagement.Model.csproj.CopyComplete
+C:\Users\User\Desktop\Registration Form\EmployeeManagement.Model\obj\Debug\EmployeeManagement.Model.dll
+C:\Users\User\Desktop\Registration Form\EmployeeManagement.Model\obj\Debug\EmployeeManagement.Model.pdb
+C:\CS PERSONAL\Employee Management Code\mini-project\EmployeeManagement.Model\bin\Debug\EmployeeManagement.Model.dll
+C:\CS PERSONAL\Employee Management Code\mini-project\EmployeeManagement.Model\bin\Debug\EmployeeManagement.Model.pdb
+C:\CS PERSONAL\Employee Management Code\mini-project\EmployeeManagement.Model\bin\Debug\Telerik.WinControls.dll
+C:\CS PERSONAL\Employee Management Code\mini-project\EmployeeManagement.Model\bin\Debug\Telerik.WinControls.UI.dll
+C:\CS PERSONAL\Employee Management Code\mini-project\EmployeeManagement.Model\bin\Debug\TelerikCommon.dll
+C:\CS PERSONAL\Employee Management Code\mini-project\EmployeeManagement.Model\bin\Debug\Telerik.WinControls.xml
+C:\CS PERSONAL\Employee Management Code\mini-project\EmployeeManagement.Model\bin\Debug\Telerik.WinControls.UI.xml
+C:\CS PERSONAL\Employee Management Code\mini-project\EmployeeManagement.Model\obj\Debug\EmployeeManagement.Model.csproj.AssemblyReference.cache
+C:\CS PERSONAL\Employee Management Code\mini-project\EmployeeManagement.Model\obj\Debug\EmployeeManagement.Model.csproj.CoreCompileInputs.cache
+C:\CS PERSONAL\Employee Management Code\mini-project\EmployeeManagement.Model\obj\Debug\Employee.F1BB000D.Up2Date
+C:\CS PERSONAL\Employee Management Code\mini-project\EmployeeManagement.Model\obj\Debug\EmployeeManagement.Model.dll
+C:\CS PERSONAL\Employee Management Code\mini-project\EmployeeManagement.Model\obj\Debug\EmployeeManagement.Model.pdb

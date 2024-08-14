@@ -1,0 +1,65 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Login_Page.Master.cs" Inherits="Registration_Form.Login_Page" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="CSS/CStyleSheet.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <h2 style="color: white"><b>Login Form</b></h2>
+            <div class="imgcontainer">
+            </div>
+            <div class="loginbox" style="text-align: center">
+                <table>
+                    <telerik:RadScriptManager ID="RadScriptManager1" runat="server"></telerik:RadScriptManager>
+                    <tr>
+                        <td>
+                            <img src="Images/login_icon.jpg" alt="Login image" class="auto-style1" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label for="username" style="color: white"><b>UserName:</b></label>
+                        </td>
+                        <td>
+                            <telerik:RadTextBox ID="username" runat="server" OnLoad="username_Load"></telerik:RadTextBox><br />
+                            <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="Enter User ID" ControlToValidate="username"></asp:RequiredFieldValidator>
+                            <asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" ControlToValidate="username" ErrorMessage="User Name" ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*"></asp:RegularExpressionValidator><br />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <br />
+                            <label for="Password" style="color: white" cssclass="lblpass"><b>Password:</b></label>
+                        </td>
+                        <td>
+                            <br />
+                            <br />
+                            <telerik:RadTextBox ID="Password" TextMode="Password" CssClass="txtpass" runat="server" ClientEvents-OnError="Required password" OnLoad="Password_Load"></telerik:RadTextBox>
+                            <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ControlToValidate="Password" CssClass="validators" ErrorMessage="Please enter password*"></asp:RequiredFieldValidator>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <telerik:RadButton ID="LoginButton" runat="server" Text="Login" OnClick="LoginButton_Click"></telerik:RadButton>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Register_Form.aspx" ForeColor="White">Register</asp:HyperLink>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
